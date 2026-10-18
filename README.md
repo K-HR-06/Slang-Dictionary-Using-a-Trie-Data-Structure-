@@ -1,5 +1,3 @@
-# Data-Structure-AOL-
-
 # Slang Dictionary Using a Trie
 
 A command-line application for managing slang words and their descriptions, created as a Data Structure coursework project.
